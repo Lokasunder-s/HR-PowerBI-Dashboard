@@ -1,13 +1,15 @@
 # HR-PowerBI-Dashboard
 Gain actionable insights into workforce retention and turnover trends with our comprehensive HR attrition analysis dashboard.
-![image](https://github.com/Lokasunder-s/HR-PowerBI-Dashboard/assets/154940528/b4f8bc05-d746-4a22-93d3-da89be202fe3)
+![image](https://github.com/Lokasunder-s/HR-PowerBI-Dashboard/assets/154940528/c9ef89c0-0e28-4a50-b3df-ebbf29d492ef)
 
 ## Data sourse
 The primary dataset utilized in this analysis is 'HR Data.xlsx', providing a comprehensive source of human resources metrics for evaluating attrition rates and related insights.
+
 ## Tools Used 
  - **Excel**: Data Preparation, Calculations.
  - **Power Query**: Data Import, Data Transformation, Query Optimization.
  - **Power BI**: Data Modeling, Visualization, Analysis.
+   
 ## Data cleaning and preparation steps:
  - Handling Missing Values:
     - Identify missing values in the dataset.
@@ -24,6 +26,7 @@ The primary dataset utilized in this analysis is 'HR Data.xlsx', providing a com
     - Aggregate data if necessary, such as summarizing data at different levels (e.g., monthly, quarterly) for analysis.
   - Handling Categorical Data:
     - Encode categorical variables into numerical format using techniques like one-hot encoding or label encoding.
+      
 ## Comprehensive HR Analysis
   - Overall Employees:
     ![image](https://github.com/Lokasunder-s/HR-PowerBI-Dashboard/assets/154940528/4686ccc7-83a5-4062-b71c-2d1400b991d1)
