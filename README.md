@@ -63,7 +63,7 @@ The primary dataset utilized in this analysis is 'HR Data.xlsx', providing a com
    
  - Educationwise Attrition count:
    - "Examine attrition counts based on employees' educational backgrounds, providing insights into the impact of education on workforce retention."
-        ![image](https://github.com/Lokasunder-s/HR-PowerBI-Dashboard/assets/154940528/cc4cbc37-5121-4d07-be7e-554ea3b6bd15)
+     ![image](https://github.com/Lokasunder-s/HR-PowerBI-Dashboard/assets/154940528/cc4cbc37-5121-4d07-be7e-554ea3b6bd15)
    
  - Attrition Rate by Age Group:
    - "Analyze attrition rates across different age groups using donut charts, allowing for targeted retention strategies tailored to specific age demographics."
