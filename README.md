@@ -1,5 +1,6 @@
 # HR-PowerBI-Dashboard
 Gain actionable insights into workforce retention and turnover trends with our comprehensive HR attrition analysis dashboard.
+"HR analytics project to understand workforce better and make smarter decisions using Excel, Power Query, and Power BI to clean up and explore data, focusing on attrition (when employees leave). This dashboard shows employee numbers, attrition rates, and more. Looking at things like age, departments, and job satisfaction to find out what affects attrition. Understanding these factors to improve how to keep employees happy and make an organization stronger."
 ![image](https://github.com/Lokasunder-s/HR-PowerBI-Dashboard/assets/154940528/c9ef89c0-0e28-4a50-b3df-ebbf29d492ef)
 
 ## Data sourse
