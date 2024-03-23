@@ -22,3 +22,7 @@ The primary dataset utilized in this analysis is 'HR Data.xlsx', providing a com
     - Aggregate data if necessary, such as summarizing data at different levels (e.g., monthly, quarterly) for analysis.
   - Handling Categorical Data:
     - Encode categorical variables into numerical format using techniques like one-hot encoding or label encoding.
+## Comprehensive HR Analysis
+  - Overall Employees:
+  - ![image](https://github.com/Lokasunder-s/HR-PowerBI-Dashboard/assets/154940528/4686ccc7-83a5-4062-b71c-2d1400b991d1)
+     - "Track the total number of employees in your organization, providing an instant snapshot of workforce size and scale."
