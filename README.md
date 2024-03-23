@@ -53,8 +53,9 @@ The primary dataset utilized in this analysis is 'HR Data.xlsx', providing a com
    ![image](https://github.com/Lokasunder-s/HR-PowerBI-Dashboard/assets/154940528/453f12af-2854-4ae5-a744-290175c29680)
    
  - Number of Employees by Age:
-   ![image](https://github.com/Lokasunder-s/HR-PowerBI-Dashboard/assets/154940528/90da80bc-67d6-4184-ae27-db91b13b85a8)
    - "Visualize the distribution of employees across age bands, revealing potential age-related trends in workforce composition."
+   ![image](https://github.com/Lokasunder-s/HR-PowerBI-Dashboard/assets/154940528/90da80bc-67d6-4184-ae27-db91b13b85a8)
+   
      
  - Job Satisfaction by Age:
    - "Explore the relationship between job roles, employee age, and job satisfaction levels, identifying potential areas for improvement or recognition."
