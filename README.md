@@ -38,7 +38,7 @@ The primary dataset utilized in this analysis is 'HR Data.xlsx', providing a com
     
  - Attrition Rate:
    - "Monitor the attrition rate, calculated as the percentage of employees who have left, providing a key metric for workforce management and retention efforts."
-   ![image](https://github.com/Lokasunder-s/HR-PowerBI-Dashboard/assets/154940528/756d819a-2abf-407d-bbe1-f14094f37e8e)
+     ![image](https://github.com/Lokasunder-s/HR-PowerBI-Dashboard/assets/154940528/756d819a-2abf-407d-bbe1-f14094f37e8e)
    
  - Active Employees:
    - "Display the count of currently active employees, crucial for understanding workforce capacity and resource allocation."
