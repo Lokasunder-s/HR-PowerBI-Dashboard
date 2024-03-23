@@ -3,7 +3,7 @@ Gain actionable insights into workforce retention and turnover trends with our c
 ## Data sourse
 The primary dataset utilized in this analysis is 'HR Data.xlsx', providing a comprehensive source of human resources metrics for evaluating attrition rates and related insights.
 ## Tools Used 
- - **Excel**: Data Preparation: Cleanse and format the data as needed for analysis.
+ - **Excel**: Data Preparation: Cleanse and format the data as needed for analysis.\n
         Calculations: Perform any necessary calculations or aggregations.
  - **Power Query**: Data Import: Connect to the HR dataset using Power Query.
               Data Transformation: Transform and cleanse the data using Power Query's intuitive interface.
