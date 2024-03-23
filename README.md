@@ -59,6 +59,7 @@ The primary dataset utilized in this analysis is 'HR Data.xlsx', providing a com
      
  - Job Satisfaction by Age:
    - "Explore the relationship between job roles, employee age, and job satisfaction levels, identifying potential areas for improvement or recognition."
+     
    ![image](https://github.com/Lokasunder-s/HR-PowerBI-Dashboard/assets/154940528/39081851-b93c-460c-a4c2-1dcfec4778d1)
    
  - Educationwise Attrition count:
